@@ -83,7 +83,7 @@ while True:
 
                     # Create dx, dy variables to position each filter
 
-                    # Check if menuchoice is 0,1,2,3,4 and set the variables scale, dx, dy
+                    # Check if menuchoice is 0,1 and set the variables scale, dx, dy
 
                     resizefactor = dist/scale
 
